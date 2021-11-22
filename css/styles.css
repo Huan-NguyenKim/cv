@@ -5,15 +5,19 @@ body {
 }
 
 h1 {
+  color: #66bfbf;
+  font-size: 400%;
   margin-top: 0;
   font-family: "Sacramento", cursive;
 }
 
 h2 {
+  color: #66bfbf;
   font-family: "Montserrat", sans-serif;
 }
 
 h3 {
+  color: #11999e;
   font-family: "Montserrat", sans-serif;
 }
 
